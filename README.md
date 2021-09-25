@@ -9,3 +9,17 @@ Material presentado en el Webinar "Programación y cartografía: Enséñale a tu
 * Mapas geológicos: [Blog](http://mapasgeologicos.blogspot.com/). [Instagram](https://www.instagram.com/mapasgeologicos/).
 * [Script](https://github.com/Esteban82/AcademiaGISArgentina/blob/main/webinar/script.sh) mostrado en el video
 
+# Algunos de los mapas elaborados en el webinar
+
+![`AcademiaGISArgentina/blob/main/webinar/Mapa1.png`](webinar/Mapa1.png)
+
+![`AcademiaGISArgentina/blob/main/webinar/Mapa2.png`](webinar/Mapa2.png)
+
+![`AcademiaGISArgentina/blob/main/webinar/Mapa3.png`](webinar/Mapa3.png)
+
+![`AcademiaGISArgentina/blob/main/webinar/Mapa4.png`](webinar/Mapa4.png)
+
+![`AcademiaGISArgentina/blob/main/webinar/Mapa5.png`](webinar/Mapa5.png)
+
+![`AcademiaGISArgentina/blob/main/webinar/Mapa6.png`](webinar/Mapa6.png)
+
