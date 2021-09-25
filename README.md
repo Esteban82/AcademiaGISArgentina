@@ -7,7 +7,5 @@ Material presentado en el Webinar "Programación y cartografía: Enséñale a tu
 * Instalación de Git Bash y GMT 6.2 ([video youtube](https://www.youtube.com/watch?v=1bPMIN7noTI&ab_channel=JorgeGabrielLozano)).
 * Sitio web [oficial de GMT ](https://www.generic-mapping-tools.org/).
 * Mapas geológicos: [Blog](http://mapasgeologicos.blogspot.com/). [Instagram](https://www.instagram.com/mapasgeologicos/).
-
-
-# Sitiosideo de youtube 
+* [Script](https://github.com/Esteban82/AcademiaGISArgentina/blob/main/webinar/script.sh) mostrado en el video
 
