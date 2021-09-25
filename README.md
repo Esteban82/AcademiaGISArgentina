@@ -13,7 +13,7 @@ Material presentado en el Webinar "Programación y cartografía: Enséñale a tu
 
 ![`AcademiaGISArgentina/blob/main/webinar/Mapa1.png`](webinar/Mapa1.png)
 
-![`AcademiaGISArgentina/blob/main/webinar/Mapa2.png`](webinar/Mapa2.png)
+![`AcademiaGISArgentina/blob/main/webinar/Mapa2.jpg`](webinar/Mapa2.jpg)
 
 ![`AcademiaGISArgentina/blob/main/webinar/Mapa3.png`](webinar/Mapa3.png)
 
